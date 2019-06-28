@@ -7,6 +7,7 @@
 <body>
  <p>
  	<input class="button" type="submit" value="Post comment (input)">
+ 	Good Morning Peeps.
  </p>
 </body>
 </html>
