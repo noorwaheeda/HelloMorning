@@ -6,7 +6,7 @@
 </head>
 <body>
  <p>
- 	<a href="#" class="button">Post comment</a>
+ 	<input class="button" type="submit" value="Post comment (input)">
  </p>
 </body>
 </html>
