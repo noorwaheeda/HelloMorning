@@ -6,7 +6,7 @@
 </head>
 <body>
  <p>
- 	<input type="button" value="Hello">
+ 	<button>Hello</button>
  </p>
 </body>
 </html>
